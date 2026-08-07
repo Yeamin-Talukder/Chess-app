@@ -1,0 +1,23 @@
+# Gradle and Build Cache
+.gradle/
+.gradle-user/
+build/
+app/build/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.navigation/
+
+# VS Code
+.vscode/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Large database downloads/archives
+*.zst
+*.csv
