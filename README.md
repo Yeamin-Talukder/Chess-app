@@ -2,6 +2,13 @@
   <img src="assets/header.svg" alt="Modern Android Chess Banner" width="800"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Yeamin-Talukder/Chess-app/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_APK-2ECC71?style=for-the-badge&logo=android&logoColor=white&labelColor=2C3E50" alt="Download Latest Release" height="40"/>
+  </a>
+</p>
+
+
 <div align="center">
 
 ### 🛠️ Development & Environment
