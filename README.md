@@ -1,19 +1,22 @@
-# <div align="center">♟️ Modern Android Chess</div>
+<p align="center">
+  <img src="assets/header.svg" alt="Modern Android Chess Banner" width="800"/>
+</p>
 
 <div align="center">
-  <p>A premium, feature-rich offline & local multiplayer <b>Android Chess Application</b> built with <b>Kotlin</b> and <b>Jetpack Compose</b>.</p>
-</div>
 
-<div align="center">
-
+### 🛠️ Development & Environment
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.20-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Android](https://img.shields.io/badge/Android-API%2026%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-[![GitHub release](https://img.shields.io/github/v/release/Yeamin-Talukder/Chess-app?style=for-the-badge&color=2ECC71)](https://github.com/Yeamin-Talukder/Chess-app/releases)
+[![License](https://img.shields.io/github/license/Yeamin-Talukder/Chess-app?style=for-the-badge&color=2C3E50)](LICENSE)
+
+### 📈 GitHub Statistics
 [![Stars](https://img.shields.io/github/stars/Yeamin-Talukder/Chess-app?style=for-the-badge&color=F1C40F)](https://github.com/Yeamin-Talukder/Chess-app/stargazers)
 [![Forks](https://img.shields.io/github/forks/Yeamin-Talukder/Chess-app?style=for-the-badge&color=2C3E50)](https://github.com/Yeamin-Talukder/Chess-app/network/members)
-[![Downloads](https://img.shields.io/github/downloads/Yeamin-Talukder/Chess-app/total?style=for-the-badge&color=2ECC71)](https://github.com/Yeamin-Talukder/Chess-app/releases)
 [![Issues](https://img.shields.io/github/issues/Yeamin-Talukder/Chess-app?style=for-the-badge&color=C0392B)](https://github.com/Yeamin-Talukder/Chess-app/issues)
-[![License](https://img.shields.io/github/license/Yeamin-Talukder/Chess-app?style=for-the-badge&color=2C3E50)](LICENSE)
+
+### 🚀 Deployments & Downloads
+[![GitHub release](https://img.shields.io/github/v/release/Yeamin-Talukder/Chess-app?style=for-the-badge&color=2ECC71)](https://github.com/Yeamin-Talukder/Chess-app/releases)
+[![Downloads](https://img.shields.io/github/downloads/Yeamin-Talukder/Chess-app/total?style=for-the-badge&color=2ECC71)](https://github.com/Yeamin-Talukder/Chess-app/releases)
 
 </div>
 
